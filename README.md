@@ -1,5 +1,6 @@
 # voice_assistant_llm
-Real-Time AI Voice Assistant With RAG Pipeline And Memory | Mistral LLM | Ollama
+#Real-Time AI Voice Assistant With RAG Pipeline And Memory | Mistral LLM | Ollama
+
 This repository contains code for a voice assistant that interacts with an AI model for natural language understanding (NLU). The assistant is designed to record audio input from users, transcribe it, and then interact with the AI model to provide relevant responses.
 
 Features
